@@ -1,2 +1,2 @@
-# stats131group7
-For our final project, STATS 131 FA 2019
+# STATS 131: Group 7 (Fall 2019)
+NBA Combine data
